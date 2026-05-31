@@ -1,6 +1,6 @@
 ## Hi there 👋.
 
-I'm Gildas TAGNY NGOMPE. Welcome to my GitHub space.
+I'm TAGNY NGOMPE. Welcome to my GitHub space.
 
 <!--
 **tagny/tagny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
