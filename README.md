@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+[![Professional Data Engineer Certification](https://images.credly.com/size/80x80/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png)](https://www.credly.com/badges/a31be15c-2fca-463a-9072-0702f542d27e)
 [![Build a Data Mesh with Dataplex Skill Badge](https://images.credly.com/size/80x80/images/c4acff27-5baa-452f-a6b2-ab875da12dfd/image.png)](https://www.credly.com/badges/9a4fe56c-ef52-4672-9dac-7f049d10bd49)
 [![Deploy Multi-Agent Architectures](https://images.credly.com/size/80x80/images/5b442afe-30bb-441f-a900-e78910db2116/blob)](https://www.credly.com/badges/8990dc4b-7df2-411b-a574-17092cf19a92)
 [![Prepare Data for ML APIs on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png)](https://www.credly.com/badges/241f6f55-6120-4047-a598-38ae4b5b589c)
@@ -27,5 +28,4 @@ Here are some ideas to get you started:
 [![Build a Data Warehouse with BigQuery Skill Badge](https://images.credly.com/size/80x80/images/8ab21779-042f-4616-a6ab-fd0d62648b24/image.png)](https://www.credly.com/badges/7cb79d2f-f9ff-4b95-9a77-8ccfc4ad143f)
 [![IBM Generative AI Engineering Professional Certificate](https://images.credly.com/size/80x80/images/468eaf1a-197c-44e2-9bd1-2f75bb7b5feb/Coursera_20IBM_20Generative_20AI_20Engineering_20Prof_20Cert.png)](https://www.credly.com/badges/07b6048d-a1b5-4e1a-971f-586b481a3cbd)
 [![IBM Deep Learning with PyTorch, Keras and Tensorflow Professional Certificate](https://images.credly.com/size/80x80/images/973d7ca2-c74e-4f2c-8be8-80b32bbe18f3/Coursera_20IBM_20Deep_20Learning_20with_20PyTorch_20Keras_20and_20Tensorflow_20Prof_20Cert.png)](https://www.credly.com/badges/56bc09a8-8101-497b-908f-626432e6aa1d)
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/51f21117-6eba-4eba-8b77-5a731613860b)
 <!--END_SECTION:badges-->
